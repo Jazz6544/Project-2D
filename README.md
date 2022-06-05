@@ -7,7 +7,7 @@ Project 2 final
 **Hypothesis**: if a mutation occurs on CCR5 that can influence the conformational integrity or structure of this molecule, which results in impaired CCR5 expression at cell surface or binding to gp120 expressed by HIV, then the cell carrying this mutation will be resistant to HIV infection.
 
 
-**6met_CD4_gp120_CXCR5.pdb**: pdb file containing the structure of complex formed by gp120 expressed by HIV and CD4 and CCR5 expressed by the target cell, the formation of this complex is required for HIV entering the target cell.
+**6met_CD4_gp120_CCR5.pdb**: pdb file containing the structure of complex formed by gp120 expressed by HIV and CD4 and CCR5 expressed by the target cell, the formation of this complex is required for HIV entering the target cell.
 
 **C101A.pdb**: pdb file containing the structure of human CCR5 with point mutation of Cystine at amino acid position 101 to Alanine obtained through homology modeling using SWISS-MODEL.
 
